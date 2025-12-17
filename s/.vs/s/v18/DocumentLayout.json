@@ -1,0 +1,328 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\sjk\\s\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/localhost/CommunityHospital/True/SqlTable/dbo.Appointments.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/localhost/CommunityHospital/True/SqlTable/dbo.Residents.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\AppData\\Local\\Temp\\bmgvgupx..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E96CE46-2754-47B1-BEAF-52029FA09479}|s\\CommunityHospital.csproj|c:\\users\\administrator\\desktop\\sjk\\s\\s\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E96CE46-2754-47B1-BEAF-52029FA09479}|s\\CommunityHospital.csproj|solutionrelative:s\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E96CE46-2754-47B1-BEAF-52029FA09479}|s\\CommunityHospital.csproj|c:\\users\\administrator\\desktop\\sjk\\s\\s\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E96CE46-2754-47B1-BEAF-52029FA09479}|s\\CommunityHospital.csproj|solutionrelative:s\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E96CE46-2754-47B1-BEAF-52029FA09479}|s\\CommunityHospital.csproj|c:\\users\\administrator\\desktop\\sjk\\s\\s\\recordaddform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E96CE46-2754-47B1-BEAF-52029FA09479}|s\\CommunityHospital.csproj|solutionrelative:s\\recordaddform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E96CE46-2754-47B1-BEAF-52029FA09479}|s\\CommunityHospital.csproj|C:\\Users\\Administrator\\Desktop\\sjk\\s\\s\\appointmentaddform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E96CE46-2754-47B1-BEAF-52029FA09479}|s\\CommunityHospital.csproj|solutionrelative:s\\appointmentaddform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E96CE46-2754-47B1-BEAF-52029FA09479}|s\\CommunityHospital.csproj|c:\\users\\administrator\\desktop\\sjk\\s\\s\\appointmentaddform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4E96CE46-2754-47B1-BEAF-52029FA09479}|s\\CommunityHospital.csproj|solutionrelative:s\\appointmentaddform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E96CE46-2754-47B1-BEAF-52029FA09479}|s\\CommunityHospital.csproj|C:\\Users\\Administrator\\Desktop\\sjk\\s\\s\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E96CE46-2754-47B1-BEAF-52029FA09479}|s\\CommunityHospital.csproj|solutionrelative:s\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E96CE46-2754-47B1-BEAF-52029FA09479}|s\\CommunityHospital.csproj|c:\\users\\administrator\\desktop\\sjk\\s\\s\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4E96CE46-2754-47B1-BEAF-52029FA09479}|s\\CommunityHospital.csproj|solutionrelative:s\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E96CE46-2754-47B1-BEAF-52029FA09479}|s\\CommunityHospital.csproj|C:\\Users\\Administrator\\Desktop\\sjk\\s\\s\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E96CE46-2754-47B1-BEAF-52029FA09479}|s\\CommunityHospital.csproj|solutionrelative:s\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E96CE46-2754-47B1-BEAF-52029FA09479}|s\\CommunityHospital.csproj|c:\\users\\administrator\\desktop\\sjk\\s\\s\\recordaddform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4E96CE46-2754-47B1-BEAF-52029FA09479}|s\\CommunityHospital.csproj|solutionrelative:s\\recordaddform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E96CE46-2754-47B1-BEAF-52029FA09479}|s\\CommunityHospital.csproj|C:\\Users\\Administrator\\Desktop\\sjk\\s\\s\\residentqueryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E96CE46-2754-47B1-BEAF-52029FA09479}|s\\CommunityHospital.csproj|solutionrelative:s\\residentqueryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E96CE46-2754-47B1-BEAF-52029FA09479}|s\\CommunityHospital.csproj|c:\\users\\administrator\\desktop\\sjk\\s\\s\\residentqueryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4E96CE46-2754-47B1-BEAF-52029FA09479}|s\\CommunityHospital.csproj|solutionrelative:s\\residentqueryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E96CE46-2754-47B1-BEAF-52029FA09479}|s\\CommunityHospital.csproj|c:\\users\\administrator\\desktop\\sjk\\s\\s\\reportvaccineform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4E96CE46-2754-47B1-BEAF-52029FA09479}|s\\CommunityHospital.csproj|solutionrelative:s\\reportvaccineform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E96CE46-2754-47B1-BEAF-52029FA09479}|s\\CommunityHospital.csproj|c:\\users\\administrator\\desktop\\sjk\\s\\s\\vaccinestockform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4E96CE46-2754-47B1-BEAF-52029FA09479}|s\\CommunityHospital.csproj|solutionrelative:s\\vaccinestockform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E96CE46-2754-47B1-BEAF-52029FA09479}|s\\CommunityHospital.csproj|c:\\users\\administrator\\desktop\\sjk\\s\\s\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E96CE46-2754-47B1-BEAF-52029FA09479}|s\\CommunityHospital.csproj|solutionrelative:s\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E96CE46-2754-47B1-BEAF-52029FA09479}|s\\CommunityHospital.csproj|c:\\users\\administrator\\desktop\\sjk\\s\\s\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4E96CE46-2754-47B1-BEAF-52029FA09479}|s\\CommunityHospital.csproj|solutionrelative:s\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E96CE46-2754-47B1-BEAF-52029FA09479}|s\\CommunityHospital.csproj|C:\\Users\\Administrator\\Desktop\\sjk\\s\\s\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E96CE46-2754-47B1-BEAF-52029FA09479}|s\\CommunityHospital.csproj|solutionrelative:s\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\AppData\\Local\\Temp\\bmgvgupx..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dbo.Residents [\u6570\u636E]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/localhost/CommunityHospital/True/SqlTable/dbo.Residents.sql",
+              "ToolTip": "dbo.Residents [\u6570\u636E]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-12-17T15:26:21.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RecordAddForm.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\sjk\\s\\s\\RecordAddForm.cs",
+              "RelativeDocumentMoniker": "s\\RecordAddForm.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\sjk\\s\\s\\RecordAddForm.cs",
+              "RelativeToolTip": "s\\RecordAddForm.cs",
+              "ViewState": "AgIAAEsEAAAAAAAAAAAIwGwEAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T15:02:45.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ResidentQueryForm.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\sjk\\s\\s\\ResidentQueryForm.cs",
+              "RelativeDocumentMoniker": "s\\ResidentQueryForm.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\sjk\\s\\s\\ResidentQueryForm.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "s\\ResidentQueryForm.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T14:53:47.781Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ReportVaccineForm.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\sjk\\s\\s\\ReportVaccineForm.cs",
+              "RelativeDocumentMoniker": "s\\ReportVaccineForm.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\sjk\\s\\s\\ReportVaccineForm.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "s\\ReportVaccineForm.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T14:53:44.871Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RecordAddForm.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\sjk\\s\\s\\RecordAddForm.cs",
+              "RelativeDocumentMoniker": "s\\RecordAddForm.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\sjk\\s\\s\\RecordAddForm.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "s\\RecordAddForm.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T14:53:39.643Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dbo.Appointments [\u6570\u636E]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/localhost/CommunityHospital/True/SqlTable/dbo.Appointments.sql",
+              "ToolTip": "dbo.Appointments [\u6570\u636E]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-12-17T14:48:37.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppointmentAddForm.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\sjk\\s\\s\\AppointmentAddForm.cs",
+              "RelativeDocumentMoniker": "s\\AppointmentAddForm.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\sjk\\s\\s\\AppointmentAddForm.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "s\\AppointmentAddForm.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T14:48:25.111Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SQLQuery1.sql ",
+              "DocumentMoniker": "C:\\Users\\Administrator\\AppData\\Local\\Temp\\bmgvgupx..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\bmgvgupx..sql",
+              "ToolTip": "SQLQuery1.sql ",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-12-17T14:48:16.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LoginForm.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\sjk\\s\\s\\LoginForm.cs",
+              "RelativeDocumentMoniker": "s\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\sjk\\s\\s\\LoginForm.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "s\\LoginForm.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T14:38:10.756Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "VaccineStockForm.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\sjk\\s\\s\\VaccineStockForm.cs",
+              "RelativeDocumentMoniker": "s\\VaccineStockForm.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\sjk\\s\\s\\VaccineStockForm.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "s\\VaccineStockForm.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T13:32:23.867Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\sjk\\s\\s\\MainForm.cs",
+              "RelativeDocumentMoniker": "s\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\sjk\\s\\s\\MainForm.cs",
+              "RelativeToolTip": "s\\MainForm.cs",
+              "ViewState": "AgIAAKABAAAAAAAAAAAowMcBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T13:28:31.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainForm.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\sjk\\s\\s\\MainForm.cs",
+              "RelativeDocumentMoniker": "s\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\sjk\\s\\s\\MainForm.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "s\\MainForm.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T13:28:31.257Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\sjk\\s\\s\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "s\\MainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\sjk\\s\\s\\MainForm.Designer.cs",
+              "RelativeToolTip": "s\\MainForm.Designer.cs",
+              "ViewState": "AgIAAAkEAAAAAAAAAAAAACsEAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T13:20:20.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\sjk\\s\\s\\LoginForm.Designer.cs",
+              "RelativeDocumentMoniker": "s\\LoginForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\sjk\\s\\s\\LoginForm.Designer.cs",
+              "RelativeToolTip": "s\\LoginForm.Designer.cs",
+              "ViewState": "AgIAABUBAAAAAAAAAAD4vy0BAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T12:35:56.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\sjk\\s\\s\\LoginForm.cs",
+              "RelativeDocumentMoniker": "s\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\sjk\\s\\s\\LoginForm.cs",
+              "RelativeToolTip": "s\\LoginForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T12:37:40.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ResidentQueryForm.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\sjk\\s\\s\\ResidentQueryForm.cs",
+              "RelativeDocumentMoniker": "s\\ResidentQueryForm.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\sjk\\s\\s\\ResidentQueryForm.cs",
+              "RelativeToolTip": "s\\ResidentQueryForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALABAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T12:36:38.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppointmentAddForm.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\sjk\\s\\s\\AppointmentAddForm.cs",
+              "RelativeDocumentMoniker": "s\\AppointmentAddForm.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\sjk\\s\\s\\AppointmentAddForm.cs",
+              "RelativeToolTip": "s\\AppointmentAddForm.cs",
+              "ViewState": "AgIAAK0DAAAAAAAAAAAIwN0DAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T12:36:26.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\sjk\\s\\s\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "s\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\sjk\\s\\s\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "s\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T12:35:37.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\sjk\\s\\s\\Program.cs",
+              "RelativeDocumentMoniker": "s\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\sjk\\s\\s\\Program.cs",
+              "RelativeToolTip": "s\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T12:35:10.552Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
